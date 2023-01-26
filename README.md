@@ -22,10 +22,27 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
+- Making Resource Group's and Virtual Machines in Microsoft Azure!
+  - Create a Resource Group and name it "osTicketRG"
+  - Create an Azure Virtual Machine Windows 10, 4 vCPUs
+  - Name: "Vm-osticket"
+  - Username: "labuser" (for example/whatever you chose)
+  - Password: "osTicketPassword1!" (for example/whatever you chose)
+
+<h2>Links for Installation</h2>
+
+https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
+- We will use these files to install osTicket and some of the dependencies. I’m using this offline version to make sure everyone is using the same version of all the files :)
+
+- Install / Enable IIS in Windows WITH CGI
+  - World Wide Web Services -> Application Development Features -> [X] CGI
+  - From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
+
+  - From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
+
+Create the directory C:\PHP
+
+
 - Item 5
 
 <h2>Installation Steps</h2>
