@@ -3,12 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
-
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+Hello, my name is Meshach Simotwo and I am an IT Professional. Today I will be showing you the steps to installing and configuring osTicket. This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
@@ -41,6 +36,15 @@ https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
   - From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi)
 
 Create the directory C:\PHP
+- From the Installation Files, download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP
+
+- From the Installation Files, download and install VC_redist.x86.exe.
+
+- From the Installation Files, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)
+  - Typical Setup -> Launch Configuration Wizard (after install) -> Standard Configuration -> Password1
+- Open IIS as an Administrator. (Right click on IIS and click "Run as Administrator")
+  - Register PHP from the IIS
+
 
 
 - Item 5
