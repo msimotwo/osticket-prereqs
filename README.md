@@ -13,7 +13,8 @@ Hello, my name is Meshach Simotwo and I am a IT Professional. Today I will be sh
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10 Pro</b> 
+- Size: Preferably 2 or 4 vcpu's, 16GiB memory</b>
 
 <h2>List of Prerequisites</h2>
 
