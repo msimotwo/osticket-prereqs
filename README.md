@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-Hello, my name is Meshach Simotwo and I am an IT Professional. Today I will be showing you the steps to installing and configuring osTicket. This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+Hello, my name is Meshach Simotwo and I am a IT Professional. Today I will be showing you the steps to installing and configuring osTicket. This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
 
