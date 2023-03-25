@@ -146,7 +146,7 @@ Create the directory C:\PHP
           
 *<h2>Tickets and Ticket Lifecycle</h2>*
 
-   - Just practice creating, triaging, and solving tickets. I recommend doing this lab over and over to help build skills and memory of osTicket creation.
+   - Just practice creating, changing, and solving tickets. I recommend doing this lab over and over to help build skills and memory of osTicket creation.
    - Ticket examples:
         - *Sev-A* (1 hour, 24/7) [entire mobile/online banking system is down] -> SysAdmins
         - *Sev-B* (4 hours, 24/7) [accounting department needs adobe upgrade, broken]
